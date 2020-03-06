@@ -1,1 +1,2 @@
 *** Instruction File ***
+Instructions for deploying the site to the server
