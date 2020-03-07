@@ -1,4 +1,4 @@
-*** Instruction File ***
+*** Instruction File (edited) ***
 Instructions for deploying the site to the server
 
 Instructions changed on sample-branch online.
