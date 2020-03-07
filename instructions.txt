@@ -1,4 +1,5 @@
-*** Instruction File ***
+*** Instruction File (edited) ***
 Instructions for deploying the site to the server
 
 New Instruction added locally in new branch.
+Okay
